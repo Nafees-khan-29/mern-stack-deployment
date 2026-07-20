@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A simple MERN stack application
 
 **Note** - To run this project using `docker compose`, follow the below steps.
@@ -30,3 +31,7 @@ npm run dev
 ```
 
 <img width="1790" alt="Screenshot 2024-08-31 at 11 07 58 PM" src="https://github.com/user-attachments/assets/f414230b-8bd6-4393-b8de-6a10444a8dfd">
+=======
+# mern-stack-deployment
+mern stack project deplpyment using docker compose
+>>>>>>> 8c94a6062cab3277916803a87d109ec4d92af884
