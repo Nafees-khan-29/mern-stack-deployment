@@ -17,7 +17,7 @@ Switch to the `compose` branch to learn the
 #### Start Server:
 
 ```
-cd mern/server
+cd mern/backend
 npm install
 npm start
 ```
@@ -25,7 +25,7 @@ npm start
 #### Start Client
 
 ```
-cd mern/client
+cd mern/frontend
 npm install
 npm run dev
 ```
